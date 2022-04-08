@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+body{
+	background-image: url('https://www.ecestaticos.com/imagestatic/clipping/7c6/eb9/7c6eb9afdcea26cb6779d1e489ec08b7/una-matanza-heroica-el-sacrificio-de-castellanos-y-aragoneses-en-constantinopla.jpg?mtime=1622781664');
+}
+.contenido{
+	background:rgba(54, 58, 54, 0.8);
+	width: 70%;
+	margin: 0 auto; /*Establecer un margen, se calcula automaticamente para que estr� centrado el contenido*/
+	padding: 2%;
+}
+.batallas{
+	width: 35%;
+}
+
+.centrarImagen{
+	width: 100%;
+	text-align: center;
+}
+
+.flavio{
+	width: 20%;
+	border-radius: 50%;
+	border-width: 10px;
+	border-style:double;
+}
+
+h1{
+	font-family: 'Boogaloo', cursive;
+	color: black;
+}
+p{
+	font-family: 'Josefin Sans', sans-serif;
+	color: white;
+}
+/*https://www.ecured.cu/Belisario*/
+/*https://i.pinimg.com/originals/9c/a4/fd/9ca4fda120d666ef36d65c116862ec8a.jpg*/
+
+
+/*https://estaticos.muyhistoria.es/uploads/images/article/58be82035bafe86f896112c2/constantinopla-c_0.jpg*/
